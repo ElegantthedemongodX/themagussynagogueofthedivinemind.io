@@ -1,0 +1,19 @@
+X509v3 Subject Alternative Name:
+URI:smft.themagussynagogueofthedivinemind.com
+X509v3 Issuer Alternative Name:
+email:Magussynagoguedivine@protonmail.com
+X509v3 CRL Distribution Points:
+Full Name:
+URI:ns1105ztomy.com
+Authority Information Access:
+OCSP - URI:66.92.162.147
+TLS Feature:
+status_request
+X509v3 Key Usage:
+Certificate Sign, CRL Sign
+X509v3 Extended Key Usage:
+TLS Web Server Authentication, E-mail Protection, Time Stamping, Microsoft Commercial Code Signing, Microsoft Trust List Signing, Microsoft Encrypted File System, Netscape Server Gated Crypto, IPSec Tunnel, IPSec User, IP security end entity, Microsoft Smartcard Login, OCSP Signing, EAP over PPP, EAP over Lan, SSH Client, Adobe PDF Signing, Microsoft Office Signing
+Netscape Cert Type:
+SSL CA, S/MIME CA, Object Signing CA
+Netscape Comment:
+xca certificate
