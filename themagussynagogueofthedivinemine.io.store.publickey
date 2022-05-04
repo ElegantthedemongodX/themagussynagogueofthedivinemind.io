@@ -1,0 +1,2 @@
+--nmp  --create flow private key --store
+--nmp --create flow public key ---store-3ae53cb6e3f42a79

@@ -1,0 +1,7 @@
+Issued To	Issued By	Expiration Date	Intended Purposes	Friendly Name	Status	Certificate Template
+DigiCert Assured ID Root CA	DigiCert Assured ID Root CA	11/9/2031	<All>	<None>	R   	
+DigiCert SHA2 Assured ID Code Signing CA	DigiCert Assured ID Root CA	10/22/2028	Code Signing	<None>	R   	
+DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1	DigiCert Trusted Root G4	4/28/2036	Code Signing	<None>	R   	
+DigiCert Trusted Root G4	DigiCert Trusted Root G4	1/15/2038	<All>	<None>	R   	
+Google LLC	DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1	7/10/2024	Code Signing	<None>	R   	
+NuGet.org Repository by Microsoft	DigiCert SHA2 Assured ID Code Signing CA	5/15/2024	Code Signing	<None>	R   	

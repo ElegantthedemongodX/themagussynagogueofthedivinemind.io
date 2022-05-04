@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>ftp.themagussynagogueofthedivinemind.io</label>
+		<root_path>\</root_path>
+		<output_path>..\..\[HFS+ Private Data]\</output_path>
+		<source_path>..\..\CSL\</source_path>
+		<jdkprofile_ref>JDK version 1.6.0</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+		<virtual_folders>true</virtual_folders>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run/>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<dir>src</dir>
+			</folderitem>
+			<fileitem>
+				<path>src\ftp_themagussynagogueofthedivinemind_io.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ftp.themagussynagogueofthedivinemind.io</label>
+	</settings>
+	<users>
+		<user>
+			<path>ftp.themagussynagogueofthedivinemind.io.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ftp.themagussynagogueofthedivinemind.io.jcp</path>
+		</project>
+	</projects>
+</workspace>

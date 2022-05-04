@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CompDB xmlns="http://schemas.microsoft.com/embedded/2004/10/ImageUpdate" CreatedDate="2022-03-20T03:04:44" Revision="1" SchemaVersion="1.0" BuildID="" BuildInfo="vb_release" OSVersion="10.0.19044.1618" Type="Device">
+    <Features>
+        <Feature Type="DesktopMedia" FeatureID="App.StepsRecorder~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="App.Support.QuickAssist~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="App.WirelessDisplay.Connect~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Browser.InternetExplorer~~11.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Client.WOW64~" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="DirectX.Configuration.Database~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Hello.Face.18967~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.Basic~en-US~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.Fonts.Orya~und-ORYA~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.Handwriting~en-US~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.OCR~en-US~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.Speech~en-US~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.TextToSpeech~en-US~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.UI.Client~en-US" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="MathRecognizer~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Media.WindowsMediaPlayer~~12.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.WebDriver~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.MSPaint~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.Notepad~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.PowerShell.ISE~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.StorageManagement~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.WordPad~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Msix.PackagingTool.Driver~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="NetFX3~" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Network.Irda~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Internet-Explorer-Optional-amd64" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MediaPlayback" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Microsoft-Windows-Subsystem-Linux" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MicrosoftWindowsPowerShellV2" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MicrosoftWindowsPowerShellV2Root" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MSRDC-Infrastructure" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-NetFx3" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-NetFx4-AdvSrvs" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-Foundation-Features" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-Foundation-InternetPrinting-Client" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-PrintToPDFServices-Features" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-XPSServices-Features" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-SearchEngine-Client-Package" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-SmbDirect" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-VirtualMachinePlatform" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WCF-Services45" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WCF-TCP-PortSharing45" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WindowsMediaPlayer" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WorkFolders-Client" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OneCoreUAP.OneSync~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OpenSSH.Client~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OpenSSH.Server~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Print.Fax.Scan~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Print.Management.Console~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Professional_en-US" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="RasCMAK.Client~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="RIP.Listener~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.ActiveDirectory.DS-LDS.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.BitLocker.Recovery.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.CertificateServices.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.DHCP.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.Dns.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.FailoverCluster.Management.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.FileServices.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.GroupPolicy.Management.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.IPAM.Client.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.LLDP.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.NetworkController.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.NetworkLoadBalancing.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.RemoteAccess.Management.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.RemoteDesktop.Services.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.ServerManager.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.Shielded.VM.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.StorageMigrationService.Management.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.StorageReplica.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.SystemInsights.Management.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.VolumeActivation.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Rsat.WSUS.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="SNMP.Client~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Tools.DeveloperMode.Core~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Tools.Graphics.DirectX~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Windows.Client.ShellComponents~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Windows.Desktop.EMS-SAC.Tools~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="WMI-SNMP-Provider.Client~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="XPS.Viewer~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+    </Features>
+    <Packages>
+    </Packages>
+    <EnumeratedPackages>
+        <Package ID="Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1503"/>
+        <Package ID="Microsoft-OneCore-DeveloperMode-Desktop-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-OneCore-DeveloperMode-Desktop-Package~31bf3856ad364e35~amd64~~10.0.19041.1023"/>
+        <Package ID="Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.19041.1052"/>
+        <Package ID="Microsoft-WebDriver-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-WebDriver-Package~31bf3856ad364e35~amd64~~10.0.19041.868"/>
+        <Package ID="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1466"/>
+        <Package ID="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1586"/>
+        <Package ID="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-ActiveDirectory-DS-LDS-Tools-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-BitLocker-Recovery-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-BitLocker-Recovery-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-BitLocker-Recovery-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-BitLocker-Recovery-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-CertificateServices-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-CertificateServices-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-CertificateServices-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-CertificateServices-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1466"/>
+        <Package ID="Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1618"/>
+        <Package ID="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.746"/>
+        <Package ID="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-DHCP-Tools-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-DNS-Tools-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-EMS-SAC-Desktop-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-EMS-SAC-Desktop-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-EMS-SAC-Desktop-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-EMS-SAC-Desktop-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1618"/>
+        <Package ID="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-FailoverCluster-Management-Tools-FOD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-FileServices-Tools-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-FodMetadata-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-FodMetadata-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Foundation-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Foundation-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-GroupPolicy-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Hello-Face-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Hello-Face-Package~31bf3856ad364e35~amd64~~10.0.19041.1348"/>
+        <Package ID="Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~11.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-IPAM-Client-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~amd64~~10.0.19041.985"/>
+        <Package ID="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-IRDA-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-Basic-en-us-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-Basic-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-Fonts-Orya-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-Fonts-Orya-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-Handwriting-en-us-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-Handwriting-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-OCR-en-us-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-OCR-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-Speech-en-us-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-Speech-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-us-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LLDP-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LLDP-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-MediaPlayer-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-MediaPlayer-Package~31bf3856ad364e35~amd64~~10.0.19041.1618"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.746"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-NetFx3-OnDemand-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-NetFx3-OnDemand-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-NetworkController-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-NetworkController-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-NetworkController-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-NetworkController-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-NetworkLoadBalancing-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-NetworkLoadBalancing-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-NetworkLoadBalancing-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-NetworkLoadBalancing-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.906"/>
+        <Package ID="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1586"/>
+        <Package ID="Microsoft-Windows-ProfessionalEdition~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-ProfessionalEdition~31bf3856ad364e35~amd64~~10.0.19041.1618"/>
+        <Package ID="Microsoft-Windows-QuickAssist-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-QuickAssist-Package~31bf3856ad364e35~amd64~~10.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-RasCMAK-Client-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RasRip-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-RasRip-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RasRip-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-RasRip-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1266"/>
+        <Package ID="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-RemoteAccess-Management-Tools-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RemoteDesktop-Services-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-RemoteDesktop-Services-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-RemoteDesktop-Services-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-RemoteDesktop-Services-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1466"/>
+        <Package ID="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1165"/>
+        <Package ID="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Shielded-VM-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-Shielded-VM-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-Shielded-VM-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Shielded-VM-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1618"/>
+        <Package ID="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~amd64~~10.0.19041.746"/>
+        <Package ID="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-SNMP-Client-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~10.0.19041.746"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.844"/>
+        <Package ID="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StorageMigrationService-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-StorageMigrationService-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1202"/>
+        <Package ID="Microsoft-Windows-StorageMigrationService-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-StorageMigrationService-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1202"/>
+        <Package ID="Microsoft-Windows-StorageReplica-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-StorageReplica-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StorageReplica-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-StorageReplica-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-SystemInsights-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-SystemInsights-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-SystemInsights-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-SystemInsights-Management-Tools-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-TabletPCMath-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-TabletPCMath-Package~31bf3856ad364e35~amd64~~10.0.19041.746"/>
+        <Package ID="Microsoft-Windows-UserExperience-Desktop-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-UserExperience-Desktop-Package~31bf3856ad364e35~amd64~~10.0.19041.1503"/>
+        <Package ID="Microsoft-Windows-VolumeActivation-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-VolumeActivation-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-VolumeActivation-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-VolumeActivation-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1503"/>
+        <Package ID="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~amd64~~10.0.19041.844"/>
+        <Package ID="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~en-US~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WSUS-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~" KeyForm="Microsoft-Windows-WSUS-Tools-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1165"/>
+        <Package ID="Microsoft-Windows-WSUS-Tools-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-WSUS-Tools-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-Xps-Xps-Viewer-Opt-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Xps-Xps-Viewer-Opt-Package~31bf3856ad364e35~amd64~~10.0.19041.1618"/>
+        <Package ID="Msix-PackagingTool-Driver-Package~31bf3856ad364e35~amd64~~" KeyForm="Msix-PackagingTool-Driver-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="OpenSSH-Client-Package~31bf3856ad364e35~amd64~~" KeyForm="OpenSSH-Client-Package~31bf3856ad364e35~amd64~~10.0.19041.964"/>
+        <Package ID="OpenSSH-Server-Package~31bf3856ad364e35~amd64~~" KeyForm="OpenSSH-Server-Package~31bf3856ad364e35~amd64~~10.0.19041.964"/>
+        <Package ID="Package_for_DotNetRollup~31bf3856ad364e35~amd64~~" KeyForm="Package_for_DotNetRollup~31bf3856ad364e35~amd64~~10.0.4488.1"/>
+        <Package ID="Package_for_KB4562830~31bf3856ad364e35~amd64~~" KeyForm="Package_for_KB4562830~31bf3856ad364e35~amd64~~10.0.1.3"/>
+        <Package ID="Package_for_KB4570334~31bf3856ad364e35~amd64~~" KeyForm="Package_for_KB4570334~31bf3856ad364e35~amd64~~19041.441.1.2"/>
+        <Package ID="Package_for_KB4577586~31bf3856ad364e35~amd64~~" KeyForm="Package_for_KB4577586~31bf3856ad364e35~amd64~~10.0.1.2"/>
+        <Package ID="Package_for_KB4580325~31bf3856ad364e35~amd64~~" KeyForm="Package_for_KB4580325~31bf3856ad364e35~amd64~~10.0.1.0"/>
+        <Package ID="Package_for_KB4586864~31bf3856ad364e35~amd64~~" KeyForm="Package_for_KB4586864~31bf3856ad364e35~amd64~~19041.621.1.0"/>
+        <Package ID="Package_for_KB5003791~31bf3856ad364e35~amd64~~" KeyForm="Package_for_KB5003791~31bf3856ad364e35~amd64~~19041.1237.1.3"/>
+        <Package ID="Package_for_RollupFix~31bf3856ad364e35~amd64~~" KeyForm="Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1618.1.8"/>
+        <Package ID="Package_for_ServicingStack_1525~31bf3856ad364e35~amd64~~" KeyForm="Package_for_ServicingStack_1525~31bf3856ad364e35~amd64~~19041.1525.1.0"/>
+        <Package ID="Package_for_ServicingStack_1613~31bf3856ad364e35~amd64~~" KeyForm="Package_for_ServicingStack_1613~31bf3856ad364e35~amd64~~19041.1613.1.1"/>
+    </EnumeratedPackages>
+    <Languages>
+        <Language Id="en-US"/>
+    </Languages>
+    <Architectures>
+        <Architecture Id="WOW64"/>
+    </Architectures>
+    <ValuePair>
+        <Pair Name="Arch" Value="amd64"/>
+        <Pair Name="BuildBranch" Value="vb_release"/>
+        <Pair Name="CBSEdition" Value="Professional"/>
+        <Pair Name="CompactOS" Value="0"/>
+        <Pair Name="EditionVersion" Value="10.0.19041.1618"/>
+        <Pair Name="OSBaseVersion" Value="10.0.19041.1"/>
+        <Pair Name="OSVersion" Value="10.0.19044.1618"/>
+        <Pair Name="ServicingStackRevision" Value="1613"/>
+        <Pair Name="ServicingStackVersion" Value="10.0.19041.1613"/>
+        <Pair Name="SystemLanguage" Value="en-US"/>
+    </ValuePair>
+    <ValueSetPair>
+        <Pair Name="UserProfileLanguage" Value="en-US"/>
+    </ValueSetPair>
+    <Registry>
+        <RegistryKey Name="HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\irda"/>
+        <RegistryKey Name="HKEY_LOCAL_MACHINE\System\CurrentControlset\Services\OneSyncSvc"/>
+        <RegistryKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Connection Manager Administration Kit"/>
+        <RegistryKey Name="HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\iprip"/>
+        <RegistryKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Windows.XPSReachViewer"/>
+    </Registry>
+</CompDB>

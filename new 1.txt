@@ -1,0 +1,95 @@
+http://localhost:8545
+ChasinID#1337
+IPv4
+172.64.36.1
+172.64.36.2
+3.
+Save and exit vim by pressing the ESC key on your keyboard. Then after lifting the key, type :wq
+Open Preferences and scroll to the bottom.
+
+2.
+Click on Settings inside Network Settings.
+
+3.
+Check Enable DNS over HTTPS.
+
+4.
+Using the dropdown for Use Provider, choose Custom.
+
+5.
+In the Custom field enter
+
+https://ecw3omb780.cloudflare-gateway.com/dns-query
+and click OK.
+
+6.
+Enter about:config in the address bar.
+
+7.
+Click on Accept the risk! if you see a prompt from Firefox.
+
+8.
+Set network.trr.bootstrapAddress to
+
+162.159.36.5
+9.
+Set network.trr.mode to 3<?xml version = "1.0"encoding = "utf-8"?>
+<Linear Layout
+    xmlns:android="http://shemas.android.com/apk/res/android"
+	android:layout_width="fill parent"
+	android:layout_height="fill parent"
+	android:gravity="center"
+	android:orentation="horizontal">
+	
+<TextView
+        android:layout_width="wrap-content"
+		
+		android:layout_height="wrap-Content"
+		
+		android:text="themagussunagogueofthedivinemind.io"/>
+		
+		</LinearLayout<html dir="ltr" lang="en" class="loading"
+    enable-branding-update>
+<head>
+  <meta charset="utf-8">
+  <meta name="color-scheme" content="light dark">
+  <title>Settings</title>
+  <base href="chrome://settings">
+  <link rel="stylesheet" href="chrome://resources/css/md_colors.css">
+  <style>
+    html {
+      background: var(--md-background-color);
+      overflow: hidden;
+      /* Remove 300ms delay for 'click' event, when using touch interface. */
+      touch-action: manipulation;
+    }
+
+    html.loading::before {
+      background-color: var(--md-toolbar-color);
+      border-bottom: var(--md-toolbar-border);
+      box-sizing: border-box;
+      content: '';
+      display: block;
+      height: var(--md-toolbar-height);
+    }
+
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+  <script type="module" src="settings.js"></script>
+  <settings-ui></settings-ui>
+</body>
+</html>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
